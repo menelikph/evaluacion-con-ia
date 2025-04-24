@@ -1,18 +1,17 @@
 # evaluacion-con-ia
-# Desafío IA: Transformando un Proceso Tradicional
+# Desafío IA: Transformando un Proceso Tradicional (calificacion de evaluaciones y tareas)
 
 ## 1. Introducción
 
-En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso **la evaluación de exámenes y tareas en el ámbito educativo**, muy común en instituciones escolares y universitarias.
+En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. **caso de uso: la evaluación de exámenes y tareas en el ámbito educativo**, muy común en instituciones escolares y universitarias.
 
 ## 2. Descripción del Proceso Tradicional
 
 **Situación actual:**
 
-- La evaluación de tareas y exámenes es realizada manualmente por los docentes. Cada respuesta debe ser leída, interpretada y calificada uno a uno, lo cual toma mucho tiempo, especialmente en grupos grandes.
-
+- La evaluación de tareas y exámenes es realizada manualmente por los docentes y muchas veces no se obtiene una retro alimentacion efectiva debido al tiempo que toma ver cada respuesta, sobre todo en grupos grandes.
+  
 **Problemas o limitaciones del método tradicional:**
-
 - Consumo excesivo de tiempo por parte del docente.
 - Posibilidad de errores humanos al calificar.
 - Retroalimentación lenta para los estudiantes.
@@ -34,6 +33,7 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
   - El sistema analiza las respuestas, las compara con las soluciones correctas o evalúa la coherencia semántica.
   - Se asignan calificaciones automáticas.
   - Se generan reportes de desempeño por estudiante o grupo.
+  - Teniendo en cuenta las preguntas con mayores fallos se procede a analizar y retroalimentar al estudiante.
 
 **Beneficios esperados:**
 
